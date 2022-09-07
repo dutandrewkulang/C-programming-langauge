@@ -1,0 +1,8 @@
+<----------------------------------------------------------------
+Initial setup
+Add the global username who will be the author of files being written.
+$ git config --global user.name "John Doe"
+
+Add an email address for that author.
+
+$ git config --global user.email johndoe@example.com
