@@ -1,0 +1,34 @@
+Integers or Int store 2 or 4 bytes of memory
+float use up 4 bytes of memory
+double use up 8 bytes of memory
+char use up 1 byte of memory
+
+---------------------------------------------------------------------------------------------
+=> Int are numbers without a decimal point.Eg 12, 99999
+
+
+
+=> float are numbers with a decimal point Eg. 12.45 and floats can store upto
+only 7 numbers after the decimal point. Eg. 12.1234567 ONLY after the 7th
+number, C gets confused.
+
+
+
+=> double are simpily floats but can store up to 15 numbers after the decimal
+point. This is good for doing large calculations.
+
+
+=> char can be a letter, single character or ASCII value.
+
+
+|-----------------------------------------------|---------------------------------------|
+|		FORMAT SPECIFIER		|	DATA TYPE			|
+|_______________________________________________|_______________________________________|
+|		%d or %i			|	int				|
+|_______________________________________________|_______________________________________|
+|		%f				|	float				|
+|_______________________________________________|_______________________________________|
+|		%c				|	char				|
+|_______________________________________________|_______________________________________|
+|		%s				|	strings				|
+|_______________________________________________|_______________________________________|
