@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-char now[] = "morning";
-
+char fullName[100];
+//int age;
 void main(void)
-{	char
-user_input[2000];
-	scanf("%s", user_input);
-	printf("%s\n", user_input);
+{
+	printf("Enter your full name: \n");
+	scanf("%s", fullName);
+	
+	printf("Hey %s", fullName);
 
 }
